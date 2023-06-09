@@ -13,8 +13,8 @@ module.exports = {
       colors: {
         "primary-color": "#ffffff",
         "secondary-color": "#000000",
-        "accent-color": "#aacae8",
-        "accent-color-light": "#4190d9",
+        "accent-color": "#4190d9",
+        "accent-color-light": "#aacae8",
       },
       fontFamily: {
         roboto: ['var(--font-roboto)']
